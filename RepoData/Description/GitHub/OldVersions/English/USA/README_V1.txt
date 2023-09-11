@@ -1,0 +1,1 @@
+🥾️💣️📖️ The official documentation source repository for StartFSCK, a malware that renders a computer unbootable from placing scripts at startup. Intended for use only in virtual machines. @seanpm2001 is not liable for malicious usage outside of virtual machines/emulators. You have been warned.
